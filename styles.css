@@ -1,0 +1,64 @@
+/* Styles go here */
+@import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+/*.outer-outlet {
+  padding: 8px;
+  border: 1px solid red;
+  height: 170px;
+  width: 360px;
+}
+*/
+
+
+/*.inner-outlet {
+  padding: 8px;
+  border: 1px solid blue;
+}*/
+
+
+
+
+
+
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+body {
+  margin: 2em;
+  /*background-color: #333*/
+  background-image: url("app/tak.jpg");
+  box-shadow: none;
+
+}
+.row .thumbnail{
+border: 0px;
+box-shadow: none;
+border-radius:0px;
+background-color: transparent;
+}
+
+
+.Magda{
+	
+
+		height: 50px
+		width: 40px
+/*    button-color: #46b368;
+*/	
+}
+
+.Back
+{
+
+	background-color: #333
+
+}
+
+/*.BackG
+{
+
+	background-image: url("");!important;
+
+}*/
